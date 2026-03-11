@@ -9,3 +9,4 @@ ApproachOfBackend.txt
 packageUses.txt
 socket.txt
 .env
+.DS_Store
