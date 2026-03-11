@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Sevillana&display=swap');
+/* importing the url of the google font */
+
+@import "tailwindcss";
+
+*{
+    font-family: "PT Serif", serif; /* this will add this font to the entire webpage */
+}
+
+::-webkit-scrollbar{ /* this will hide the scrollbar for the webpage */
+    display: none;
+}
